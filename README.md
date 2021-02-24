@@ -1,1 +1,1 @@
-# trial-run
+#A simple startup page made as a small project in the ZTM webdev course.
